@@ -17,7 +17,7 @@ Thank you for visiting my Github Profile.
 
 - 📫 How to reach me **sanafm18@gmail.com**
 
-- 📄 Know about my experiences [www.resume.com](www.resume.com)
+- 📄 Know about my experiences [Resume](https://bit.ly/2X53V6l)
 
 - ⚡ I love spending my after work hours in **practicing interior designing edge as my hobby along with travelling and reading.**
 
