@@ -2,18 +2,32 @@
 <h3 align="center">Aspiring Data Scientist and data enthusiast.</h3>
 
 Thank you for visiting my Github Profile.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaf09&label=Profile%20views&color=0e75b6&style=flat" alt="sanaf09" /> </p>
+
+- 🔭 I’m currently working on [Sales analysis](www.google.com)
+
+- 🌱 I’m currently learning **Data visualization and Analytics, Machine learning**
+
+- 👯 I’m looking to collaborate on **open source Data Science projects.**
+
+- 👨‍💻 All of my projects are available at [www.portfolio.com](www.portfolio.com)
+
+- 💬 Ask me about **Python, MySQL, EDA, Feature engineering, Machine Learning - Supervised and Unsupervised, Dashboard - PowerBI,Tablue.**
+
+- 📫 How to reach me **sanafm18@gmail.com**
+
+- 📄 Know about my experiences [www.resume.com](www.resume.com)
+
+- ⚡ Fun fact **Practicing interior designing edge as my hobby along with travelling and reading.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanafm18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanafm18" height="30" width="40" /></a>
+<a href="https://kaggle.com/sanaf09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sanaf09" height="30" width="40" /></a>
 </p>
 
-📫 Reach me at : sanafm18@gmail.com
-
-🔭 I’m currently interning as a Data Science & Business Analyst @The_Sparks_Foundation.
-
-🌱 I’m currently learning more about Data analytics, Machine learning, exploring and diving deeper in the domain of Data Science.
-
-💬 Ask me about 
+<h3 align="left">Languages and Tools:</h3><br>
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -28,6 +42,32 @@ Thank you for visiting my Github Profile.
 ⚡ Facts about me: Practicing ineterior designing edge as my hobby along with travelling and reading. 
 
 ![](https://github-readme-stats.vercel.app/api?username=Sanaf09)
+
+
+
+
+
+
+888****************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
