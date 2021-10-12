@@ -5,6 +5,7 @@ Thank you for visiting my Github Profile.
 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?username=http://www.linkedin.com/in/sanafm18?style=for-the-badge&logo=linkedin&logoColor=white)
 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 📫 Reach me at : sanafm18@gmail.com
 
 🔭 I’m currently interning as a Data Science & Business Analyst @The_Sparks_Foundation.
