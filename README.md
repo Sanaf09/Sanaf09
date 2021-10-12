@@ -28,6 +28,8 @@ Thank you for visiting my Github Profile.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -39,7 +41,7 @@ Thank you for visiting my Github Profile.
 ![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-⚡ Facts about me: Practicing ineterior designing edge as my hobby along with travelling and reading. 
+<h3>Stats about me :</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Sanaf09)
 
