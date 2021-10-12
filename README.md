@@ -11,13 +11,13 @@ Thank you for visiting my Github Profile.
 
 - 👯 I’m looking to collaborate on **open source Data Science projects.**
 
-- 👨‍💻 All of my projects are available at [www.portfolio.com](www.portfolio.com)
+- 👨‍💻 View all the projects at my [Portfolio.](www.portfolio.com)
 
 - 💬 Ask me about **Python, MySQL, EDA, Feature engineering, Machine Learning - Supervised and Unsupervised, Dashboard - PowerBI,Tablue.**
 
 - 📫 How to reach me **sanafm18@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://bit.ly/2X53V6l)
+- 📄 Know about my experiences: [Resume](https://bit.ly/2X53V6l)
 
 - ⚡ I love spending my after work hours in **practicing interior designing edge as my hobby along with travelling and reading.**
 
