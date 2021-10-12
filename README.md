@@ -27,7 +27,7 @@ Thank you for visiting my Github Profile.
 <a href="https://kaggle.com/sanaf09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sanaf09" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3><br><br/>
+<h3 align="left">Languages and Tools:</h3>
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
