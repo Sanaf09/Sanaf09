@@ -2,7 +2,8 @@
 
 Thank you for visiting my Github Profile.
 ![](https://komarev.com/ghpvc/?username=Sanaf09&color=brightgreen&style=plastic&label=Profile+Views)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+                
 ![](https://img.shields.io/badge/LinkedIn-0077B5?username=http://www.linkedin.com/in/sanafm18?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
