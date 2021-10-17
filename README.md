@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanaf Momin</h1>
-<h3 align="center">Aspiring Data Scientist and data enthusiast.</h3>
+<h3 align="center">Budding Data Scientist and ML enthusiast.</h3>
 
 Thank you for visiting my Github Profile.
 
